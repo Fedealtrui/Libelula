@@ -152,7 +152,13 @@ body {
 #sagrada-madre #sahumerios {
   display: -ms-grid;
   display: grid;
-      grid-template-areas: "title title title" "p1 p2 p3" "p4 p5 p6" "p7 p8 p9" "p10 p11 p12" "p13 p14 p15";
+      grid-template-areas: "title title title"
+ "p1 p2 p3"
+ "p4 p5 p6"
+ "p7 p8 p9"
+ "p10 p11 p12"
+ "p13 p14 p15"
+ "p16 p17 p18";
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -319,10 +325,53 @@ body {
   width: 200px;
 }
 
+#sagrada-madre #sahumerios .prod16 {
+  grid-area: p16;
+}
+
+#sagrada-madre #sahumerios .prod16 img {
+  width: 200px;
+}
+
+#sagrada-madre #sahumerios .prod17 {
+  grid-area: p17;
+}
+
+#sagrada-madre #sahumerios .prod17 img {
+  width: 200px;
+}
+
+#sagrada-madre #sahumerios .prod18 {
+  grid-area: p18;
+}
+
+#sagrada-madre #sahumerios .prod18 img {
+  width: 200px;
+}
+
+#sagrada-madre #sahumerios .prod19 {
+  grid-area: p19;
+}
+
+#sagrada-madre #sahumerios .prod19 img {
+  width: 200px;
+}
+
+#sagrada-madre #sahumerios .prod20 {
+  grid-area: p20;
+}
+
+#sagrada-madre #sahumerios .prod20 img {
+  width: 200px;
+}
+
 #sagrada-madre #bombitas {
   display: -ms-grid;
   display: grid;
-      grid-template-areas: "title title title" "p1 p2 p3" "p4 p5 p6" "p7 p8 p9";
+      grid-template-areas: "title title title"
+ "p1 p2 p3"
+ "p4 p5 p6"
+ "p7 p8 p9";
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -492,7 +541,9 @@ body {
 #sagrada-madre #piramides {
   display: -ms-grid;
   display: grid;
-      grid-template-areas: "title title title" "p1 p2 p3" "p4 p5 p6";
+      grid-template-areas: "title title title"
+ "p1 p2 p3"
+ "p4 p5 p6";
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -662,7 +713,12 @@ body {
 #sagrada-madre #sahumos {
   display: -ms-grid;
   display: grid;
-      grid-template-areas: "title title title" "p1 p2 p3" "p4 p5 p6" "p7 p8 p9" "p10 p11 p12" "p13 p14 p15";
+      grid-template-areas: "title title title"
+ "p1 p2 p3"
+ "p4 p5 p6"
+ "p7 p8 p9"
+ "p10 p11 p12"
+ "p13 p14 p15";
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;

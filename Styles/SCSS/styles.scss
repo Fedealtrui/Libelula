@@ -133,11 +133,12 @@ body{
         color: #732036;}
 
 
-    @for $i from 1 through 15{
+    @for $i from 1 through 20{
         .prod#{$i} {
              grid-area: p#{$i};
              img{
              width: 200px;}
+             
                     }
                 }
             }     
